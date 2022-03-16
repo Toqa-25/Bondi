@@ -298,7 +298,7 @@ padding: 4rem 1.5rem 1rem 1.5rem;
 .member-img::before{
     content: attr(data-name);
     position: absolute;
-    bottom: -48px;
+    bottom:-17%;
     left:0;
     height:18%;
     width: 100%;
