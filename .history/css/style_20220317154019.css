@@ -153,7 +153,7 @@ ul{
 } 
 .main-placeholder::placeholder{
     color:var(--main-color);
-    color:#454b53;
+    color:#6f7174;
     opacity: 1;
 } 
 input[type="email"]::-webkit-input-placeholder{

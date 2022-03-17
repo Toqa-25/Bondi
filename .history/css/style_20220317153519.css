@@ -146,14 +146,16 @@ ul{
 .text-indent-50{
     text-indent: .50rem;
 }
-
+ ::placeholder{
+    color:var(--main-color);
+    opacity: 1;
+}
 .yellow-placeholder::placeholder{
     color:var(--yellow-color);
     opacity: 1;
 } 
 .main-placeholder::placeholder{
     color:var(--main-color);
-    color:#454b53;
     opacity: 1;
 } 
 input[type="email"]::-webkit-input-placeholder{
